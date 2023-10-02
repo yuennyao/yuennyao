@@ -4,4 +4,4 @@
 
 -🌱 Areas of interest: Software Development/Engineering, UX/UI Design. 
   
--💻 Language and Tools: HTML, CSS, JavaScript (React), Python, Java, Dart, Flutter, Firebase, SQL, Figma.
+-💻 Language and Tools: HTML, CSS, JavaScript (React), PHP, Python, Java, Dart, Flutter, Firebase, SQL, Figma.
